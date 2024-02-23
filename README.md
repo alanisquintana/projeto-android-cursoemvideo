@@ -8,7 +8,7 @@
 
 ### 👋 Bem-vindo(a) 
 
-Seja muito bem-vindo(a) ao repositório do meu primeiro projeto na área de desenvolvimento web, realizado no curso de HTML5 e CSS3 do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
+Seja muito bem-vindo(a) ao repositório do meu primeiro projeto na área de desenvolvimento web, realizado no curso de _HTML5_ e _CSS3_ do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
 
 <br />
 
@@ -16,7 +16,7 @@ Seja muito bem-vindo(a) ao repositório do meu primeiro projeto na área de dese
 
 Este site, apresentando curiosidades sobre o _Android_, é resultado do meu empenho em aplicar os conhecimentos adquiridos no primeiro e segundo módulo do curso. 
 
-- Este projeto faz parte de uma iniciativa educacional, onde o conteúdo, a estruturação e o estilo foram definidos pelo professor _Gustavo Guanabara_ como parte do curso de HTML5 e CSS3. Como aluna, meu papel foi seguir as diretrizes propostas, aplicando os conceitos e técnicas aprendidos durante as aulas.
+- Este projeto faz parte de uma iniciativa educacional, onde o conteúdo, a estruturação e o estilo foram definidos pelo _Professor Gustavo Guanabara_ como parte do curso de _HTML5_ e _CSS3_. Como aluna, meu papel foi seguir as diretrizes propostas, aplicando os conceitos e técnicas aprendidos durante as aulas.
 
 </br>
 
@@ -76,7 +76,7 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 
 ### 👋 Welcome
 
-Welcome to the repository of my first project in web development, carried out in the HTML5 and CSS3 course from _CursoemVídeo_! This project represents an **initial milestone** in my learning journey in web development.
+Welcome to the repository of my first project in web development, carried out in the _HTML5_ and _CSS3_ course from _CursoemVídeo_! This project represents an **initial milestone** in my learning journey in web development.
 
 <br />
 
@@ -84,7 +84,7 @@ Welcome to the repository of my first project in web development, carried out in
 
 This website, featuring trivia about _Android_, is the result of my efforts to apply the knowledge acquired in the first and second modules of the course.
 
-- This project is part of an educational initiative where the content, structure, and styling were defined by Professor _Gustavo Guanabara_ as part of the HTML5 and CSS3 course. As a student, my role was to follow the proposed guidelines, applying the concepts and techniques learned during the classes.
+- This project is part of an educational initiative where the content, structure, and styling were defined by _Professor Gustavo Guanabara_ as part of the _HTML5_ and _CSS3_ course. As a student, my role was to follow the proposed guidelines, applying the concepts and techniques learned during the classes.
 
 </br>
 
