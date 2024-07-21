@@ -1,14 +1,11 @@
 ### [<img align="right" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" />](#english-version)
-
 <br />
 
 ---
 
 # Projeto Android (CursoemVídeo)
 
-### 👋 Bem-vindo(a) 
-
-Seja muito bem-vindo(a) ao repositório do meu primeiro projeto na área de desenvolvimento web, realizado no curso de _HTML5_ e _CSS3_ do _CursoemVídeo_! Este projeto representa um **marco inicial** na minha jornada de aprendizado em desenvolvimento web.
+Esse é o repositório do meu primeiro projeto na área de desenvolvimento web, realizado no curso de _HTML5_ e _CSS3_ do _CursoemVídeo_.
 
 <br />
 
@@ -35,22 +32,6 @@ Este site, apresentando curiosidades sobre o _Android_, é resultado do meu empe
 
 **- Responsividade:** Priorizei a responsividade, permitindo uma experiência consistente em diferentes tamanhos de tela.
 
-<br />
-
-## Próximos Passos
-
-Este projeto representa apenas o início da minha trajetória. Estou ansiosa para expandir meus conhecimentos, incorporar feedbacks construtivos e continuar aprimorando minhas habilidades no vasto campo do desenvolvimento web.
-
-<br />
-
-## Conclusão
-
-Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compartilhar** suas experiências. Agradeço por fazer parte deste momento inicial e por apoiar o meu desenvolvimento como desenvolvedora web.
-<br />
-<br />
-
-**Obrigada por visitar! 📌**
-
 </br>
 
 ## Contato
@@ -62,22 +43,14 @@ Sinta-se à vontade para **explorar** o código-fonte, **contribuir** e **compar
 </div>
 
 </br>
-
-### Sinta-se livre para deixar uma ⭐ nesse repositório!
-
----
-
-<br />
-<br />
-<br />
+</br>
+</br>
 
 # English Version
 
 # Android Project (CursoemVídeo)
 
-### 👋 Welcome
-
-Welcome to the repository of my first project in web development, carried out in the _HTML5_ and _CSS3_ course from _CursoemVídeo_! This project represents an **initial milestone** in my learning journey in web development.
+This is the repository of my first project in web development, carried out in the _HTML5_ and _CSS3_ course from _CursoemVídeo_.
 
 <br />
 
@@ -103,22 +76,6 @@ This website, featuring trivia about _Android_, is the result of my efforts to a
 
 **- Responsiveness:** I prioritized responsiveness, allowing for a consistent experience on different screen sizes.
 
-<br />
-
-## Next Steps
-
-This project is just the beginning of my journey. I am eager to expand my knowledge, incorporate constructive feedback, and continue improving my skills in the vast field of web development.
-
-<br />
-
-## Conclusion
-
-Feel free to **explore** the source code, **contribute** and **share** your experiences. I appreciate your participation at this initial moment and your support for my development as a web developer.
-<br />
-<br />
-
-**Thank you for visiting! 📌**
-
 </br>
 
 ## Contact
@@ -130,5 +87,3 @@ Feel free to **explore** the source code, **contribute** and **share** your expe
 </div>
 
 </br>
-
-### Feel free to give a ⭐ to this repository!
